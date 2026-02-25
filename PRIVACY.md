@@ -1,4 +1,4 @@
-Privacy Policy for AI Summary Tool - Web Assistant
+## Privacy Policy for AI Summary Tool - Web Assistant
 Last Updated: February 26, 2026
 
 Your privacy is important to us. This Privacy Policy explains how AI Summary Tool - Web Assistant ("the Extension") handles your information.
